@@ -1,5 +1,4 @@
 models
-logs
 fig
 aif360
 verb_classification/data
@@ -11,3 +10,4 @@ results
 object_multilable
 *.ipynb
 *.sh
+*.pickle
